@@ -1,5 +1,7 @@
 # TaskFlow
 
+[![CI](https://github.com/harshai07/taskflow/actions/workflows/ci.yml/badge.svg)](https://github.com/harshai07/taskflow/actions/workflows/ci.yml)
+
 A task-management REST API built with **Spring Boot 3** and **Java 17**, created as the hands-on project for a 26-day Spring Boot interview-prep plan. It starts as a small, runnable REST service and grows — persistence, security, tests, Docker — one feature at a time.
 
 > Roadmap / tracker: **https://springboot-26-days-harshai07s-projects.vercel.app**
