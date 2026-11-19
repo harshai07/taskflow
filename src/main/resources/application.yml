@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: taskflow
+
+server:
+  port: 8080
+
+# Phase 3 (JPA) will add a datasource block here.
+# Phase 4 (Security) will add JWT settings here.
